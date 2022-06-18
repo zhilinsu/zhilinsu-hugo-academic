@@ -12,8 +12,11 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
+  caption: University of Birmingham (Photo by [Korng
+    Sok](""https://unsplash.com/@korng_sok?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+    on [Unsplash](https://unsplash.com/photos/Wsh8ATkOGpo)).
 ---
-![](featured.jpg "*University of Birmingham*. ")
+{{< toc >}}
 
 > 開始閱讀本文之前，希望您能夠意識到，這是我的申請經驗。\
 > 我所在乎、考量的事情，或許並非您所關心的。\
@@ -48,4 +51,4 @@ image:
 
 〈Funding〉
 
-* 教育部公費留學考試獎學金（四年）：心理與認知學群–認知神經科學
+* 教育部公費留學考試獎學金（四年）：心理與認知學群–認[](s)
