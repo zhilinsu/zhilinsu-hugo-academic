@@ -13,7 +13,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-![](featured.jpg "University of Birmingham. Photo by <a href=\\"https://unsplash.com/@korng_sok?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\\">Korng Sok</a> on <a href=\\"https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\\">Unsplash</a>   ")
+![](featured.jpg "*University of Birmingham*. ")
 
 > 開始閱讀本文之前，希望您能夠意識到，這是我的申請經驗。\
 > 我所在乎、考量的事情，或許並非您所關心的。\
