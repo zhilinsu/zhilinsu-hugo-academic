@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant
-    company: Department of Psychology, NTU
+    company: Department of Psychology, National Taiwan University (NTU)
     company_url: ''
     company_logo: org-ntu
     location: Taipei, Taiwan
@@ -45,7 +45,7 @@ experience:
         - MSc Dissertation: ***The Neural Mechanisms Underlying the Influence of Self Affective States on Empathic Responses***
         
   - title: Undergraduate Student
-    company: Department of Psychology, National Taiwan University (NTU)
+    company: Department of Psychology, NTU
     company_url: ''
     company_logo: org-ntu
     location: Taipei, Taiwan
