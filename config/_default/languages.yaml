@@ -4,17 +4,17 @@
 
 # Default language
 en:
-  languageCode: en-us
+  languageCode: en-gb
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
+# zh-hant:
+ # languageCode: zh-hant
+ # contentDir: content/zh-hant
+ # title: 蘇致霖
+ # params:
+ #   description: 蘇致霖的學術個人網頁。
 #  menu:
 #    main:
 #      - name: 传

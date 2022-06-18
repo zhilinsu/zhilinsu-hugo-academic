@@ -8,7 +8,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
+title: 聯絡資訊
 subtitle:
 
 content:
@@ -45,7 +45,7 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: DM Me
+      name: 私訊我
       link: 'https://twitter.com/su_zhilin'
    # - icon: video
    #   icon_pack: fas

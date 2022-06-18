@@ -6,20 +6,24 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: custom
+  theme_night: custom
+  font: custom
   font_size: L
 
 # SEO
 
 marketing:
+  verification:
+    google: ''
+    baidu: ''
+    bing: ''
   seo:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'The personal academic website of Zhilin Su from Taiwan.'
+    twitter: 'su_zhilin'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +47,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Zhilin Su. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -55,7 +59,7 @@ footer:
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
-  address_format: en-us
+  address_format: en-gb
 
 # Site features
 
@@ -66,7 +70,7 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:

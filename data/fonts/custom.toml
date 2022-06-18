@@ -1,0 +1,11 @@
+# Font style metadata
+name = "custom"
+
+# Optional Google font URL
+google_fonts = "family=Karla:ital,wght@0,400;0,700;1,400;1,700&family=Roboto+Mono&family=Spectral:ital,wght@0,400;0,600;1,400;1,600"
+
+# Font families
+heading_font = "Spectral"
+body_font = "Karla"
+nav_font = "Spectral"
+mono_font = "Roboto Mono"

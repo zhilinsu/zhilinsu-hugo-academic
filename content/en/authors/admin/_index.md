@@ -26,7 +26,7 @@ organizations:
     url: https://www.ntu.edu.tw/
 education:
   courses:
-    - course: Psychology PhD student (incoming)
+    - course: PhD in Psychology (incoming)
       institution: University of Birmingham
       year: ""
     - course: MSc in Brain and Mind Sciences
