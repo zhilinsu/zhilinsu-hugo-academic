@@ -13,7 +13,7 @@ image:
   focal_point: Smart
   preview_only: false
   caption: University of Birmingham (Photo by [Korng
-    Sok](""https://unsplash.com/@korng_sok?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+    Sok](https://unsplash.com/@korng_sok?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     on [Unsplash](https://unsplash.com/photos/Wsh8ATkOGpo)).
 ---
 {{< toc >}}
