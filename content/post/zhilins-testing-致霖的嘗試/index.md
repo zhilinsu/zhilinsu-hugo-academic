@@ -1,5 +1,5 @@
 ---
-title: 2021/22 英國伯明翰大學心理學博士班申請 (University of Birmingham)
+title: 2021/22 英國 University of Birmingham 心理學博士班申請
 subtitle: 申請心得、建議與資源
 date: 2022-06-18T06:04:38.842Z
 summary: |-
@@ -13,13 +13,13 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-![University of Birmingham. Photo by <a href="https://unsplash.com/@korng_sok?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Korng Sok</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>   ](uob.jpg)
+![](featured.jpg "University of Birmingham. Photo by <a href=\\"https://unsplash.com/@korng_sok?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\\">Korng Sok</a> on <a href=\\"https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\\">Unsplash</a>   ")
 
 > 開始閱讀本文之前，希望您能夠意識到，這是我的申請經驗。\
 > 我所在乎、考量的事情，或許並非您所關心的。\
 > 我無意指出一條讓其他人跟隨的道路，而是分享我沿途看到的風景，希望您在選擇要踏上的旅程之前，可以參考看看。
 
-# 本文閱讀簡介
+## 本文閱讀簡介
 
 我是一個囉哩八唆的人。這篇文章沒有意外的話，會是一篇非常長的文章。\
 如果您有耐心閱讀我的整個申請經歷，我會非常感謝您。\
@@ -27,7 +27,7 @@ image:
 如果您單純想找到一些比較工具性的撰寫建議，您可以在文章中找到💡符號，這裡會有實用的參考資源。\
 左側的目錄可以幫助您快速瀏覽與定位。
 
-# 申請結果摘要
+## 申請結果摘要
 
 〈Application〉
 
