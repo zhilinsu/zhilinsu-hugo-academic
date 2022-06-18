@@ -40,6 +40,6 @@ superuser: true
 highlight_name: true
 ---
 Zhilin Su is currently a full-time research assistant at the Language Neuroscience Lab, [National Taiwan University (NTU)](https://www.ntu.edu.tw/). His main responsibility is to assist in conducting an 18-month longitudinal study with ~100 participants aged 6-8 years across several primary schools in northern Taiwan, using behavioural and fNIRS experiments.\
-He is also an incoming Psychology PhD student at the (Centre for Human Brain Health)[https://www.birmingham.ac.uk/research/centre-for-human-brain-health/index.aspx], School of Psychology, University of Birmingham, and will begin his doctoral studies this September. 
+He is also an incoming Psychology PhD student at the [Centre for Human Brain Health](https://www.birmingham.ac.uk/research/centre-for-human-brain-health/index.aspx), School of Psychology, University of Birmingham, and will begin his doctoral studies this September. 
 
 {{< icon name="download" pack="fas" >}} Download my  {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
