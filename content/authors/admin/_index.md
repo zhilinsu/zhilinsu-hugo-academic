@@ -1,9 +1,9 @@
 ---
 title: Zhilin Su (蘇致霖)
-role: Research Assistant of Psychology
+role: Research Assistant in Psychology
 avatar_filename: avatar.jpg
-bio: "My research interests include social neuroscience, (pro)social learning,
-  and (pro)social decision-making. "
+bio: "I am interested in how people interact with each other, and how their
+  brains work together. "
 interests:
   - Social Neuroscience (fMRI)
   - (Pro)Social Learning
