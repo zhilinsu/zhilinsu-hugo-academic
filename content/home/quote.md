@@ -10,4 +10,4 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-> *People are born to be prosocial; if not, at least we can learn to be.*
+> # *People are born to be prosocial; if not, at least we can learn to be.*
