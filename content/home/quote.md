@@ -1,5 +1,5 @@
 ---
-widget: post
+widget: pages
 widget_id: quote
 headless: true
 weight: 20
