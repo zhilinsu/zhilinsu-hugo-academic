@@ -28,7 +28,7 @@ experience:
     company_logo: org-ntu
     location: Taipei, Taiwan
     date_start: '2020-09-01'
-    date_end: ''
+    date_end: '2022-07-31'
     description: |2-
         - Analysing neurocognitive developmental differences between monolingual and bilingual children, in collaboration with University of Michigan
 
