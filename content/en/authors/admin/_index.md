@@ -1,6 +1,6 @@
 ---
 title: Zhilin Su (蘇致霖)
-role: Research Assistant of Psychology
+role: PhD student in Psychology
 avatar_filename: avatar.jpg
 bio: "My research interests include social neuroscience, (pro)social learning,
   and (pro)social decision-making. "
@@ -22,11 +22,11 @@ social:
     icon_pack: fab
     link: https://github.com/zhilinsu
 organizations:
-  - name: National Taiwan University
-    url: https://www.ntu.edu.tw/
+  - name: University of Birmingham 
+    url: https://www.birmingham.ac.uk/index.aspx
 education:
   courses:
-    - course: PhD in Psychology (incoming)
+    - course: PhD in Psychology
       institution: University of Birmingham
       year: ""
     - course: MSc in Brain and Mind Sciences
@@ -39,6 +39,6 @@ email: zhilinsu1312@gmail.com
 superuser: true
 highlight_name: true
 ---
-Zhilin Su is currently a full-time research assistant at the Language Neuroscience Lab, [National Taiwan University (NTU)](https://www.ntu.edu.tw/). His main responsibility is to assist in conducting an 18-month longitudinal study with ~100 participants aged 6-8 years across several primary schools in northern Taiwan, using behavioural and fNIRS experiments.
+Zhilin is a first-year PhD student in Psychology funded by the Ministry of Education in Taiwan. He is supervised by Dr [Patricia Lockwood](https://www.sdn-lab.org) and Dr [Matthew Apps](https://www.msn-lab.com) at the [University of Birmingham](https://www.birmingham.ac.uk/index.aspx). He is intrigued by the behavioural, computational and neural mechanisms underlying social learning and decision-making in health, disease, and development. He is currently using computational modelling to explore preference learning in the social context across the lifespan.
 
 {{< icon name="download" pack="fas" >}} Download my  {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
